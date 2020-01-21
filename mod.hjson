@@ -1,6 +1,0 @@
-name: "More Walls"
-displayName: "[orange]More Walls" //what displays in the mod selection menu
-author: "Fodicon"
-description: "A mod that adds more walls to walls gallery, each with thier own abilities"
-version: "1.0"
-minGameVersion: "101"
