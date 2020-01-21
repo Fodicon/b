@@ -1,6 +1,8 @@
 {
   "name": "More Walls",
+  "dispayName": "More Walls",
   "author": "Phoenix Stump",
   "description": "This mod adds more walls to the walls galley, each with it own unique properties",
-  "version": "1.0"
+  "version": "1.0",
+  "minGameVersion": "102.3"
 }
