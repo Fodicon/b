@@ -1,0 +1,12 @@
+{
+name: Lead Wall
+description: Lead Wall
+type: Wall
+health: 380
+size: 1
+requirements: [
+  lead/6
+]
+category: defense
+research: copper-wall
+}
